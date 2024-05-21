@@ -403,7 +403,7 @@ font-family: 'Lobster', cursive;
   height: 100%;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  background-position: center;
+  background-position: top;
   background-size: cover;
   -webkit-animation: fade-in 20s ease-in;
           animation: fade-in 20s ease-in;
